@@ -13,6 +13,7 @@ Displays a user profile with a background image, profile picture, name, job titl
 ## How to Run
 1. Clone this repository:
 git clone https://github.com/Peter86111/BuildUIWithComposables.git
+
 2. Open in Android Studio
 3. Run the app on an emulator or physical device
 
